@@ -7,7 +7,7 @@ import kotlin.properties.Delegates
 private val logger = KotlinLogging.logger {}
 
 /**
- * Represents a developer which wants to work in a nice team to be productive
+ * Represents a developer who wants to work in a nice team to be productive
  * @property sa is this dev a highly experienced Software Brownfieldhitect?
  */
 data class Developer(val name: String, val sa: Boolean = false) {
