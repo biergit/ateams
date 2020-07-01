@@ -16,7 +16,7 @@
         <mockk.version>1.9.3</mockk.version>
         <kotlin-logging.version>1.7.8</kotlin-logging.version>
         <protobuf-java.version>3.11.4</protobuf-java.version>
-        <log4j.version>2.13.1</log4j.version>
+        <log4j.version>2.13.3</log4j.version>
         <jib-maven-plugin.version>2.1.0</jib-maven-plugin.version>
         <kotlin.compiler.jvmTarget>1.8</kotlin.compiler.jvmTarget>
     </properties>
