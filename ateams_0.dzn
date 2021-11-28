@@ -1,0 +1,12 @@
+DEVS = {HANS, FRANZ, MARKUS,RICHARD,RUBEN,RAFAEL};
+TEAMS = {TEAMA, TEAMB, TEAMC};
+
+isSA = [true,false,true,false,true,false];
+minSize = [ 1, 1, 1 ];
+enjoy = [|7,2,1
+         |1,7,2
+         |8,1,1
+         |1,1,8
+         |1,9,0
+         |2,2,6
+         |];
