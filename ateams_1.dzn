@@ -1,0 +1,25 @@
+DEVS = {HANS, FRANZ, MARKUS, RICHARD, RUBEN, RAFAEL, JUERGEN, REBECCA, LUISA};
+TEAMS = {TEAMA, TEAMB, TEAMC};
+
+isSA = [true,false,false,false,false,false,true,false,true];
+minSize = [ 3, 3, 3 ];
+enjoy = [|6,2,1
+         |1,7,2
+         |8,1,1
+         |1,1,8
+         |1,9,0
+         |2,2,6
+         |5,1,4
+         |1,1,8
+         |2,1,7
+         |];
+sympathy = [|0,1,0,0,0,0,0,0,0
+            |0,0,0,0,0,0,0,0,0
+            |0,0,0,0,0,0,0,0,0
+            |0,0,0,0,0,0,0,0,0
+            |0,0,0,0,0,0,0,0,0
+            |0,0,0,0,0,0,0,0,0
+            |0,0,0,0,0,0,0,0,0
+            |0,0,0,0,0,0,0,0,0
+            |0,0,0,0,0,0,0,0,0
+            |];

@@ -1,12 +1,19 @@
-DEVS = {HANS, FRANZ, MARKUS,RICHARD,RUBEN,RAFAEL};
+DEVS = {HANS, FRANZ, MARKUS, RICHARD, RUBEN, RAFAEL};
 TEAMS = {TEAMA, TEAMB, TEAMC};
 
 isSA = [true,false,true,false,true,false];
-minSize = [ 1, 1, 1 ];
-enjoy = [|7,2,1
-         |1,7,2
-         |8,1,1
-         |1,1,8
-         |1,9,0
-         |2,2,6
+minSize = [ 2, 2, 2 ];
+enjoy = [|6,2,0
+         |2,0,0
+         |8,0,0
+         |0,0,5
+         |0,10,0
+         |2,2,0
          |];
+sympathy = [|0,2,0,0,0,0
+            |0,0,5,3,0,0
+            |0,2,0,0,0,0
+            |0,0,0,0,5,0
+            |0,0,0,0,0,0
+            |0,0,0,6,0,0
+            |];
