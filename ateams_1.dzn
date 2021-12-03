@@ -1,7 +1,9 @@
 DEVS = {HANS, FRANZ, MARKUS, RICHARD, RUBEN, RAFAEL, JUERGEN, REBECCA, LUISA};
 TEAMS = {TEAMA, TEAMB, TEAMC};
 
-isSA = [true,false,false,false,false,false,true,false,true];
+isSA =          [ true, false, false, false, false, false, true, false, true];
+isFrontendDev = [ false, false, true, false, true, false, true, false, false ];
+minFrontendDevs = [ 2, 0, 1 ];
 minSize = [ 3, 3, 3 ];
 enjoy = [|6,2,1
          |1,7,2
